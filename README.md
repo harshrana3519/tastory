@@ -6,14 +6,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-👉 **[View Tastory online](https://harshrana3519.github.io/tastory/)**
-
-*(Best enjoyed with your favourite burger in hand!)*
-
----
-
 ## ✨ Key Features
 
 * **Hero Banner** with eye‑catching parallax and call‑to‑action button.
@@ -37,21 +29,6 @@
 | **Google Fonts & Shields.io** | Visual polish & dynamic badges           |
 
 ---
-
-## 📂 Project Structure
-
-```
-📦 tastory/
- ┣ 📂 public
- ┃ ┣ 📂 images
- ┃ ┣ 📂 js
- ┃ ┃ ┗ main.js
- ┃ ┗ index.html
- ┣ 📂 readme-images
- ┣ 📜 style.css
- ┣ 📜 README.md
- ┗ 📜 LICENSE
-```
 
 ---
 
